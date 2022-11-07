@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Locker</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="lbl_landing_page">Lockerbox Express</string>
+    <string name="btn_start">Scan To Start</string>
+    <string name="title_activity_settings_admin">Settings Admin</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Back</string>
+    <string name="title_activity_setting_menu">Service Menu</string>
+    <string name="btn_back">Back</string>
+    <string name="title_activity_scan_card">ScanCard</string>
+    <string name="btn_book">Book Lockers</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="lbl_ScanCard">Scan Card</string>
+    <string name="title_activity_select_locker">SelectLocker</string>
+    <string name="title_activity_scan_new_card">ScanNewCard</string>
+    <string name="btn_unlock_all_lockers">Click To Unlock</string>
+    <string name="lbl_select_locker">Select Locker</string>
+
+
+</resources>

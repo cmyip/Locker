@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/fullscreenBackgroundColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/ThemeOverlay.Locker.FullscreenContainer"
+    tools:context=".ScanNewCard">
+
+
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:text="@string/lbl_select_locker"
+        android:textColor="?attr/fullscreenTextColor"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+
+        />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="200dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+
+        <HorizontalScrollView
+            android:layout_width="700dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/horizontalScrollView"
+            android:scrollbarThumbHorizontal="@color/light_green"
+            android:fadeScrollbars="false"
+            >
+
+            <LinearLayout
+                android:id="@+id/space_linear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="50dp"
+                >
+
+            </LinearLayout>
+
+
+
+        </HorizontalScrollView>
+    </LinearLayout>
+
+
+</FrameLayout>

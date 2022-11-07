@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/btn_locker.xml" value="0.1205" />
+        <entry key="app/src/main/res/drawable/btnlocker.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/ic_icons8_settings_100.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/ic_icons8_settings_50.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/scrollbar.xml" value="0.1265" />
+        <entry key="app/src/main/res/layout/activity_fullscreen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_scan_card.xml" value="0.1786703601108033" />
+        <entry key="app/src/main/res/layout/activity_scan_new_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_scan_new_card2.xml" value="0.19817708333333334" />
+        <entry key="app/src/main/res/layout/activity_select_locker.xml" value="0.18098958333333334" />
+        <entry key="app/src/main/res/layout/activity_setting_menu.xml" value="0.12016460905349795" />
+        <entry key="app/src/main/res/layout/activity_settings_admin.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.29296875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
